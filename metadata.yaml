@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/William_Walker_Atkinson
     - http://www.gutenberg.org/browse/authors/d#a662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41510#The-Psychology-of-Salesmanship
 gutenberg_issued: '2012-11-29'
 gutenberg_type: Text
 identifiers:
